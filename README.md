@@ -1,2 +1,0 @@
-# AxieOS
-Custom OS
